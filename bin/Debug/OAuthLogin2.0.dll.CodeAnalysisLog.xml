@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="f:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\OAuthLogin2.0.dll">
+   <Modules>
+    <Module Name="oauthlogin2.0.dll">
+     <Namespaces>
+      <Namespace Name="OAuthLogin">
+       <Types>
+        <Type Name="AlibabaExceptionBuilder" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2017-01-19 03:44:09Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="G:\OpenSourceProject\OAuthLogin2.0\CustomException" File="AlibabaExceptionBuilder.cs" Line="19">'AlibabaExceptionBuilder' 实现一个只调用按条件发出的方法或基类型终结器的终结器。请移除该终结器或确保它只能按条件编译到程序集内。如果此冲突是针对完全包装在按条件发出的代码块中的终结器发生的，请禁止显示此消息。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="EtpErrorException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2017-01-19 03:44:09Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">将 [Serializable] 添加到 'EtpErrorException'，原因是此类型实现了 ISerializable。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="EtpException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2017-01-19 03:44:09Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">将 [Serializable] 添加到 'EtpException'，原因是此类型实现了 ISerializable。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="MeiLiShuoExceptionBuilder" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2017-01-19 03:44:09Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="G:\OpenSourceProject\OAuthLogin2.0\CustomException" File="MeiLiShuoExceptionBuilder.cs" Line="16">'MeiLiShuoExceptionBuilder' 实现一个只调用按条件发出的方法或基类型终结器的终结器。请移除该终结器或确保它只能按条件编译到程序集内。如果此冲突是针对完全包装在按条件发出的代码块中的终结器发生的，请禁止显示此消息。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Platform" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2017-01-19 03:44:09Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="G:\OpenSourceProject\OAuthLogin2.0" File="Platform.cs" Line="49">'Platform' 实现一个只调用按条件发出的方法或基类型终结器的终结器。请移除该终结器或确保它只能按条件编译到程序集内。如果此冲突是针对完全包装在按条件发出的代码块中的终结器发生的，请禁止显示此消息。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237">
+   <Name>用 SerializableAttribute 标记 ISerializable 类型</Name>
+   <Description>System.Runtime.Serialization.ISerializable 接口允许该类型自定义自身的序列化，而 Serializable 特性使运行时能够将该类型识别为可序列化的类型。</Description>
+   <Resolution Name="Default">将 [Serializable] 添加到 {0}，原因是此类型实现了 ISerializable。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182350.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821">
+   <Name>移除空终结器</Name>
+   <Description>应尽可能避免使用终结器，以避免跟踪对象生存期时产生附加的性能系统开销。</Description>
+   <Resolution Name="Default">{0} 实现一个只调用按条件发出的方法或基类型终结器的终结器。请移除该终结器或确保它只能按条件编译到程序集内。如果此冲突是针对完全包装在按条件发出的代码块中的终结器发生的，请禁止显示此消息。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264476.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">类别</String>
+  <String Key="Certainty">确定性</String>
+  <String Key="CollapseAll">全部折叠</String>
+  <String Key="CheckId">检查 ID</String>
+  <String Key="Error">错误</String>
+  <String Key="Errors">错误</String>
+  <String Key="ExpandAll">全部展开</String>
+  <String Key="Help">帮助</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">消息</String>
+  <String Key="LocationNotStoredInPdb">[位置未存储在 Pdb 中]</String>
+  <String Key="Project">项目</String>
+  <String Key="Resolution">解析</String>
+  <String Key="Rule">规则</String>
+  <String Key="RuleFile">规则文件</String>
+  <String Key="RuleDescription">规则说明</String>
+  <String Key="Source">源</String>
+  <String Key="Status">状态</String>
+  <String Key="Target">目标</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">代码分析报告</String>
+ </Localized>
+</FxCopReport>

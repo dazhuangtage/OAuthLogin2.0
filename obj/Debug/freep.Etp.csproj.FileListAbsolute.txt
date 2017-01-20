@@ -1,0 +1,7 @@
+G:\UploadOnekey\freep.Etp\bin\Debug\freep.Etp.dll
+G:\UploadOnekey\freep.Etp\bin\Debug\freep.Etp.pdb
+G:\UploadOnekey\freep.Etp\bin\Debug\System.Web.Services.4.0.0.0.Fakes.fakesconfig
+G:\UploadOnekey\freep.Etp\bin\Debug\Newtonsoft.Json.dll
+G:\UploadOnekey\freep.Etp\obj\Debug\freep.Etp.dll
+G:\UploadOnekey\freep.Etp\obj\Debug\freep.Etp.pdb
+G:\UploadOnekey\freep.Etp\obj\Debug\freep.Etp.csprojFakesResolveAssemblyReference.cache

@@ -1,0 +1,163 @@
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WebMethodAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WebServiceAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WebServiceBindingAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WebServicesDescriptionAttribute 生成存根: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WsiProfiles 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.MimeFormatter 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.MimeReturnReader 生成存根: method System.Object System.Web.Services.Protocols.MimeReturnReader.Read(System.Net.WebResponse response, System.IO.Stream responseStream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.AnyReturnReader 生成存根: method System.Object System.Web.Services.Protocols.MimeReturnReader.Read(System.Net.WebResponse response, System.IO.Stream responseStream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.WebClientAsyncResult 生成存根: 类型没有系列可见的构造函数。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.InvokeCompletedEventHandler 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.InvokeCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.MimeParameterReader 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.ValueCollectionParameterReader 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.HtmlFormParameterReader 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.MimeParameterWriter 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.UrlEncodedParameterWriter 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.HtmlFormParameterWriter 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.HttpMethodAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.LogicalMethodTypes 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.LogicalMethodInfo 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.MatchAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.NopReturnReader 生成存根: method System.Object System.Web.Services.Protocols.MimeReturnReader.Read(System.Net.WebResponse response, System.IO.Stream responseStream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.PatternMatcher 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapMessage 生成存根: 类型没有系列可见的构造函数。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapClientMessage 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapDocumentMethodAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapDocumentServiceAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.Soap12FaultCodes 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapHeaderMapping 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapHeaderHandling 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapHeaderAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapHeaderDirection 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapMessageStage 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapParameterStyle 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapProtocolVersion 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapRpcMethodAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapRpcServiceAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapServerMessage 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapServerType 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapServiceRoutingStyle 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapUnknownHeader 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.TextReturnReader 生成存根: method System.Object System.Web.Services.Protocols.MimeReturnReader.Read(System.Net.WebResponse response, System.IO.Stream responseStream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.UrlParameterReader 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.UrlParameterWriter 生成存根: method System.Object System.Web.Services.Protocols.MimeFormatter.GetInitializer(System.Web.Services.Protocols.LogicalMethodInfo methodInfo) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.XmlReturnReader 生成存根: method System.Object System.Web.Services.Protocols.MimeReturnReader.Read(System.Net.WebResponse response, System.IO.Stream responseStream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryReference 生成存根: method System.Object System.Web.Services.Discovery.DiscoveryReference.ReadDocument(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.ContractReference 生成存根: method System.Object System.Web.Services.Discovery.DiscoveryReference.ReadDocument(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.ContractSearchPattern 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryClientDocumentCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryClientResultCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryClientResult 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryClientReferenceCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryDocument 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryDocumentReference 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryDocumentSearchPattern 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryExceptionDictionary 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryReferenceCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DiscoveryRequestHandler 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.DynamicDiscoveryDocument 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.ExcludePathInfo 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.SchemaReference 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.SoapBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Discovery.XmlSchemaSearchPattern 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.HttpAddressBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.HttpBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.HttpOperationBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.HttpUrlEncodedBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.HttpUrlReplacementBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeContentBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimePart 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeMultipartRelatedBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeXmlBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimePartCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeTextBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeTextMatch 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MimeTextMatchCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescription 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Import 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Port 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Service 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.FaultBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.InputBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OutputBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Binding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationFault 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationInput 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationOutput 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Operation 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.PortType 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Message 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MessagePart 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Types 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionBaseCollection 生成存根: 类型没有系列可见的构造函数。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionFormatExtensionCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationFlow 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationMessageCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ImportCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MessageCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.PortCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.PortTypeCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.BindingCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.MessagePartCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationBindingCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.FaultBindingCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationFaultCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionImportWarnings 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionImportStyle 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12Binding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12OperationBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12BodyBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12FaultBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12HeaderBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.Soap12AddressBinding 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.SoapBindingStyle 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.SoapBindingUse 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.WebReference 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.WebReferenceCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.WebServicesInteroperability 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.BasicProfileViolation 生成存根: 类型没有系列可见的构造函数。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.PriorityGroup 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.DiagnosticsElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.SoapEnvelopeProcessingElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.SoapExtensionTypeElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeAndNameConverter 生成存根: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeTypeConverter 生成存根: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.SoapExtensionTypeElementCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeElementCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WebServicesSection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WsdlHelpGeneratorElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.ProtocolElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.ProtocolElementCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WebServiceProtocols 生成存根: 类型是一个值类型。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WsiProfilesElement 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WsiProfilesElementCollection 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.XmlFormatExtensionAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.XmlFormatExtensionPointAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.XmlFormatExtensionPrefixAttribute 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapServerMethod 生成存根: 类型已密封。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 <PrivateImplementationDetails>{966D3092-1239-4666-89CF-F84BC2B22C46} 生成存根: 类型不受支持，因为存在内部限制。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WebServicesDescriptionAttribute 生成填充码: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.WsiProfiles 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.InvokeCompletedEventHandler 生成填充码: 类型是一个委托。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.LogicalMethodTypes 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapHeaderDirection 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapMessageStage 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapParameterStyle 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapProtocolVersion 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Protocols.SoapServiceRoutingStyle 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.OperationFlow 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionImportWarnings 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.ServiceDescriptionImportStyle 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.SoapBindingStyle 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Description.SoapBindingUse 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.PriorityGroup 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeAndNameConverter 生成填充码: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.TypeTypeConverter 生成填充码: 类型对 exported or assembly(System.Web.Services.4.0.0.0.Fakes) 不可见。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 System.Web.Services.Configuration.WebServiceProtocols 生成填充码: 类型是一个枚举。
+G:\UploadOnekey\freep.Etp\Fakes\System.Web.Services.fakes : warning : 无法为 <PrivateImplementationDetails>{966D3092-1239-4666-89CF-F84BC2B22C46} 生成填充码: 类型不受支持，因为存在内部限制。

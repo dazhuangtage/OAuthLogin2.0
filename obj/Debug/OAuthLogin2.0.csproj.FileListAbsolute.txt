@@ -1,0 +1,9 @@
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\OAuthLogin2.0.dll
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\OAuthLogin2.0.pdb
+G:\OpenSourceProject\OAuthLogin2.0\obj\Debug\OAuthLogin2.0.dll
+G:\OpenSourceProject\OAuthLogin2.0\obj\Debug\OAuthLogin2.0.pdb
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\Newtonsoft.Json.dll
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\Newtonsoft.Json.xml
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\OAuthLogin2.0.dll.CodeAnalysisLog.xml
+G:\OpenSourceProject\OAuthLogin2.0\bin\Debug\OAuthLogin2.0.dll.lastcodeanalysissucceeded
+G:\OpenSourceProject\OAuthLogin2.0\obj\Debug\OAuthLogin2.0.csprojResolveAssemblyReference.cache
